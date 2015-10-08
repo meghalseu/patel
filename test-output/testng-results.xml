@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1683" started-at="2015-10-08T18:02:34Z" finished-at="2015-10-08T18:02:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1683" started-at="2015-10-08T18:02:34Z" finished-at="2015-10-08T18:02:36Z">
+      <class name="patel.udemy.test.GetSessionInfo">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:patel.udemy.test.GetSessionInfo@5a01ccaa]" name="beforeMethod" is-config="true" duration-ms="353" started-at="2015-10-08T14:02:34Z" finished-at="2015-10-08T14:02:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:patel.udemy.test.GetSessionInfo@5a01ccaa]" name="validLogin" duration-ms="1310" started-at="2015-10-08T14:02:34Z" finished-at="2015-10-08T14:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:patel.udemy.test.GetSessionInfo@5a01ccaa]" name="afterMethod" is-config="true" duration-ms="0" started-at="2015-10-08T14:02:36Z" finished-at="2015-10-08T14:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- patel.udemy.test.GetSessionInfo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
